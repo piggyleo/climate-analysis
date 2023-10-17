@@ -7,4 +7,4 @@ To install a copy of the toolkit, open a terminal and run:
 git@github.com:piggyleo/climate-analysis.git
 ```
 
-*** This code is currently in development ***
+** This code is currently in development **
